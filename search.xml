@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>The Persecution of Canadian Physicians During the Pandemic</title>
+      <link href="/the-persecution-of-canadian-physicians-during-the-pandemic/"/>
+      <url>/the-persecution-of-canadian-physicians-during-the-pandemic/</url>
+      
+        <content type="html"><![CDATA[    <div class="podcast"></div>    <script>        const player = new Shikwasa({            container: () => document.querySelector('.podcast'),            audio: {                title: "The Persecution of Canadian Physicians During the Pandemic",                artist: 'The Canadian Business Daily',                cover: 'https://ipfs.io/ipfs/QmbBYnzKiNgP6d7ycDWYQp7Pkze7iaDkZUz84Fk1MKc2XP',                src: 'https://ipfs.io/ipfs/QmUoqVdPcoDAD3shMo8nEB4BqcEbdhnfAcGVxcxc7mCh6J'            },            fixed: {                type: 'static'            },            themeColor: "orange",            preload: "metadata",            autoplay: false,            download: true,        });    </script><p>In this group interview four physicians from across Canada tell their stories of persecution at the hands of their governing bodies.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Bookmark This Site!</title>
       <link href="/bookmark-this-site/"/>
       <url>/bookmark-this-site/</url>
       
-        <content type="html"><![CDATA[<!--     <div class="podcast"></div>    <script>        const player = new Shikwasa({            container: () => document.querySelector('.podcast'),            audio: {                title: "Bookmark This Site!",                artist: 'Anthony Russano',                cover: 'https://ipfs.io/ipfs/QmbBYnzKiNgP6d7ycDWYQp7Pkze7iaDkZUz84Fk1MKc2XP',                src: 'https://ipfs.io/ipfs/QmexD5xdLxkqVA8VombVnZ5Hwwzxtj335MJS3JdAraBzb4'            },            fixed: {                type: 'static'            },            themeColor: "orange",            preload: "metadata",            autoplay: false,            download: true,        });    </script> --><p>This radio station re-broadcasts updated content 24/7.</p><p>Make sure to tune in Saturday’s at 11pm for a live show hosted by Anthony Russano.</p>]]></content>
+        <content type="html"><![CDATA[<!--     <div class="podcast"></div>    <script>        const player = new Shikwasa({            container: () => document.querySelector('.podcast'),            audio: {                title: "Bookmark This Site!",                artist: 'Anthony Russano',                cover: 'https://ipfs.io/ipfs/QmbBYnzKiNgP6d7ycDWYQp7Pkze7iaDkZUz84Fk1MKc2XP',                src: 'https://ipfs.io/ipfs/QmexD5xdLxkqVA8VombVnZ5Hwwzxtj335MJS3JdAraBzb4'            },            fixed: {                type: 'static'            },            themeColor: "orange",            preload: "metadata",            autoplay: false,            download: true,        });    </script> --><p>This radio station re-broadcasts updated content 24/7.</p>]]></content>
       
       
       
