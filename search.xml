@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>Keiser Report - Through the Fiat Looking Glass</title>
+      <link href="/keiser-report-through-the-fiat-looking-glass/"/>
+      <url>/keiser-report-through-the-fiat-looking-glass/</url>
+      
+        <content type="html"><![CDATA[    <div class="podcast"></div>    <script>        const player = new Shikwasa({            container: () => document.querySelector('.podcast'),            audio: {                title: "Keiser Report - Through the Fiat Looking Glass",                artist: 'RT',                cover: 'https://ipfs.io/ipfs/QmbBYnzKiNgP6d7ycDWYQp7Pkze7iaDkZUz84Fk1MKc2XP',                src: 'https://ipfs.io/ipfs/QmS8c1PXTDYVYfnzSExZpEeGFjV8BRu8MkS8ugHZXvP6r6'            },            fixed: {                type: 'static'            },            themeColor: "orange",            preload: "metadata",            autoplay: false,            download: true,        });    </script><p>In this episode of Keiser Report, Max and Stacy look at the Red Queen syndrome of the US dollar since Nixon closed the window and everyone has had to work harder and harder to stay in the same place.</p><p>In the second half, Max continues his interview with Egon von Greyerz of <a href="http://GoldSwitzerland.com">GoldSwitzerland.com</a> about the coming dollar reckoning as tension builds between the rising power of China and the fading one of the US.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://www.youtube.com/watch?v=EmhYk_2V818">https://www.youtube.com/watch?v=EmhYk_2V818</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Apple’s Assault on privacy with plans to detect child abuse pics</title>
+      <link href="/apple%E2%80%99s-assault-on-privacy-with-plans-to-detect-child-abuse-pics/"/>
+      <url>/apple%E2%80%99s-assault-on-privacy-with-plans-to-detect-child-abuse-pics/</url>
+      
+        <content type="html"><![CDATA[    <div class="podcast"></div>    <script>        const player = new Shikwasa({            container: () => document.querySelector('.podcast'),            audio: {                title: "Apple’s Assault on privacy with plans to detect child abuse pics",                artist: 'RT',                cover: 'https://ipfs.io/ipfs/QmbBYnzKiNgP6d7ycDWYQp7Pkze7iaDkZUz84Fk1MKc2XP',                src: 'https://ipfs.io/ipfs/QmSGxhzyo46yFY1g67Eb35xFMmsKoKbjJLxuWBqAkvkeYo'            },            fixed: {                type: 'static'            },            themeColor: "orange",            preload: "metadata",            autoplay: false,            download: true,        });    </script><p>Apple’s privacy reputation is at risk due to its plan to scan photos on all US iPhones for ‘child abuse imagery’. Security researchers and experts are concerned that this scheme threatens privacy and encryption.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://on.rt.com/be0t">https://on.rt.com/be0t</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>The Persecution of Canadian Physicians During the Pandemic</title>
       <link href="/the-persecution-of-canadian-physicians-during-the-pandemic/"/>
       <url>/the-persecution-of-canadian-physicians-during-the-pandemic/</url>
