@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Does George Soros Manipulate Global Order</title>
+      <link href="/does-george-soros-manipulate-global-order/"/>
+      <url>/does-george-soros-manipulate-global-order/</url>
+      
+        <content type="html"><![CDATA[    <div class="podcast"></div>    <script>        const player = new Shikwasa({            container: () => document.querySelector('.podcast'),            audio: {                title: "Does George Soros Manipulate Global Order",                artist: 'Gravitas Plus',                cover: 'https://ipfs.io/ipfs/QmbBYnzKiNgP6d7ycDWYQp7Pkze7iaDkZUz84Fk1MKc2XP',                src: 'https://ipfs.io/ipfs/QmfZMyeQggbNoP6cbnpj4X1LXdRFWBLwKcFXij9jpU4RoH'            },            fixed: {                type: 'static'            },            themeColor: "orange",            preload: "metadata",            autoplay: false,            download: true,        });    </script><p>A nexus is trying to alter political realities the world over. One name is imprinted on the narrative it’s trying to build. On Gravitas Plus, WION’s Palki Sharma Upadhyay brings you the story of George Soros.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://www.youtube.com/watch?v=qQbVyHVmmKs">https://www.youtube.com/watch?v=qQbVyHVmmKs</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>A Thousand Brains - A New Theory of Intelligence - Jeff Hawkins and Subutai Ahmad</title>
       <link href="/a-thousand-brains-a-new-theory-of-intelligence-jeff-hawkins-and-subutai-ahmad/"/>
       <url>/a-thousand-brains-a-new-theory-of-intelligence-jeff-hawkins-and-subutai-ahmad/</url>
